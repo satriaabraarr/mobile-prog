@@ -1,5 +1,5 @@
 # Capture Hasil Praktikum
-![alt text](image-7.png)
+![alt text](image.png)
 
 ## Tugas Praktikum
 1. Jelaskan maksud dari langkah 2 pada praktikum tersebut!      
